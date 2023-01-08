@@ -1,0 +1,18 @@
+body{
+  background-image: url("https://th.bing.com/th/id/R.6aae272dd5e42d76c0df5737cc340266?rik=BK1jpkdcUPHF4g&pid=ImgRaw&r=0");
+  font-family: "Abel", sans-serif;
+  font-size: 20px;
+  color:#f0f0f0;
+  background-color: yellow;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-size: cover;
+}
+
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
